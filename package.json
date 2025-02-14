@@ -11,8 +11,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+
   "homepage": "https://chrispius006.github.io/COMP2156",
-  
+
   "keywords": [],
   "author": "",
   "license": "ISC",
